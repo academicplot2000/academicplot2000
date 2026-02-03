@@ -11,7 +11,7 @@
   <a href="https://github.com/academicplot2000?tab=projects">
     <img src="https://img.shields.io/badge/Proyectos-9f2a3f?style=for-the-badge&logo=github&logoColor=fff7e6" alt="Proyectos" />
   </a>
-  <a href="https://www.youtube.com/channel/TU_CANAL">
+  <a href="[https://www.youtube.com/channel/@academicplot](https://www.youtube.com/@academicplot)">
     <img src="https://img.shields.io/badge/YouTube-7a1c2e?style=for-the-badge&logo=youtube&logoColor=fff7e6" alt="YouTube" />
   </a>
   <a href="https://ko-fi.com/TU_USUARIO">
