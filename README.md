@@ -31,17 +31,9 @@
 </p>
 
 <!-- ESTADÍSTICAS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=academicplot2000&show_icons=true&theme=default&text_color=7a1c2e&bg_color=fff7e6&icon_color=9f2a3f" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visitors-🟢%20Online-7a1c2e?style=for-the-badge" alt="Visitor Count" />
-  🥕
-</p>
 
 <!-- PRÓXIMOS PROYECTOS -->
-<h2 align="center" style="color:#7a1c2e;">🚀 Próximos Proyectos</h2>
+<h2 align="center" style="color:#7a1c2e;"> 🥕 Próximos Proyectos 🥕 </h2>
 
 <p align="center">
   <a href="https://github.com/academicplot2000/Dulcienne-Academy">
