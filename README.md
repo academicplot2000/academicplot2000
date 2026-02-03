@@ -1,5 +1,5 @@
 <p align="center">
-   🥕 <h1><strong>Bienvenido a mi GitHub</strong></h1> 🥕
+   🥕
 </p>
 
 <p align="center">
