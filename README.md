@@ -1,8 +1,3 @@
-<!-- TÍTULO -->
-<p align="center">
-   🥕
-</p>
-
 <!-- GIF CENTRAL -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/academicplot2000/github-theme-assets/main/gifs/background.gif" />
@@ -11,16 +6,6 @@
 <div align="center">
 
 <br>
-
-# Creative Developer & Storyteller
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=8B2635&center=true&vCenter=true&width=500&lines=Building+meaningful+digital+experiences;Crafting+stories+through+code;Designing+with+purpose" alt="Typing SVG" />
-</p>
-
-<br>
-
-</div>
 
 ---
 
