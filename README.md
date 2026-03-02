@@ -105,17 +105,3 @@ Dulcienne Academy will be an educational platform where creativity and knowledge
 </p>
 
 <br>
-
----
-
-<br>
-
-<p align="center">
-  <sub>Made with care · Creative coding · Storytelling through design</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8B2635&style=flat-square&label=visitors" alt="Visitors" />
-</p>
